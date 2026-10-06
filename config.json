@@ -2,5 +2,5 @@
     "region": "eu-west-1",
     "pz-bucket-name": "git-pz-bucket-to-fill-lines-until-5",
     "another-bucket-name": "git-pz-bucket-to-fill-lines-until-5",
-    "env": ""
+    "env": "staging"
 }
